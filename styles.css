@@ -1,0 +1,39 @@
+/*
+font-family: 'Coming Soon', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+*/
+
+html {
+    font-family: 'Roboto', sans-serif;
+    padding: 0 24px 24px;
+    background-image: url("ressources/free-squared-paper-vector.jpg");
+  }
+  
+  h1 {
+    font-family: 'Coming Soon', cursive;
+    font-size: 4rem;
+    /*font-variant: small-caps;*/
+    text-shadow: 1px 1px 1px red,
+                 2px 2px 1px red;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    font-family: 'Coming Soon', cursive;
+    font-weight: bold;
+  }
+  
+  code, pre {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    background-color: #f4f4f4;
+  }
+  
+  dt {
+    font-size: 1rem;
+  }
+  
+  footer {
+    font-size: 0.8rem;
+  }
